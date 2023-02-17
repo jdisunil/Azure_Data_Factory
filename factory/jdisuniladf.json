@@ -1,0 +1,9 @@
+{
+	"name": "jdisuniladf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35923fde-993b-479c-8379-d8735e9aa106",
+		"tenantId": "89e58e3f-0c41-44b5-b154-2fa93558e390"
+	}
+}
